@@ -1,6 +1,3 @@
-Below is a sample **README.md** file for your **OCR + NLP project**. You can adapt this text as needed, adding more details specific to your setup or additional dependencies. 
-
----
 
 # OCR + NLP Project Using FUNSD and Hugging Face
 
